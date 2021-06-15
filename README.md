@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aziz
 - 👀 I’m interested in python
-- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on cheetay Team
 - 📫 How to reach me aziz.ullah@cheetay.pk
 
